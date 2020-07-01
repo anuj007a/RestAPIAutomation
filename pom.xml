@@ -16,7 +16,7 @@
         <testng-version>7.1.0</testng-version>
         <jersey-client-version>2.30.1</jersey-client-version>
         <org.json-version>20190722</org.json-version>
-        <log4j-core-version>2.13.0</log4j-core-version>
+        <log4j-core-version>2.13.2</log4j-core-version>
     </properties>
     <build>
         <plugins>
